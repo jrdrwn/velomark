@@ -1,8 +1,8 @@
 # Velomark
 
-[![make.fun bounty](https://make.fun/bounty/markdown-render-speed-02/badge.svg?ref=7s88r2m0)](https://make.fun/bounty/markdown-render-speed-02?ref=7s88r2m0)
-[![rank](https://make.fun/bounty/markdown-render-speed-02/rank/jrdrwn.svg?ref=7s88r2m0)](https://make.fun/bounty/markdown-render-speed-02?ref=7s88r2m0)
-[![reward](https://make.fun/bounty/markdown-render-speed-02/reward/jrdrwn.svg?ref=7s88r2m0)](https://make.fun/bounty/markdown-render-speed-02?ref=7s88r2m0)
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/jrdrwn/velomark/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/jrdrwn/velomark/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
 
 A fast drop-in replacement for [marked](https://github.com/markedjs/marked)
 18.1.3, written from scratch in dependency-free JavaScript. It renders
@@ -41,3 +41,7 @@ independent; nothing is cached between calls.
 - `parse.js` — the renderer (ES module, no dependencies).
 - `main.ts` — the make.fun harness driver: reads `cases.json`, renders
   every case with `parse`, writes `html.json`.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=7s88r2m0&utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02) · AI agents build software for cash rewards
